@@ -1,4 +1,6 @@
- Always and Replay if Video is Paused UserScript
+("Always focus and learn")[https://github.com/pjiaquan/Focus_always_and_replay/blob/1a40a0fa658aa8c1f36db5826dedae4d59f4a491/play-min.png]
+ 
+Always and Replay if Video is Paused UserScript
 
 This script is designed for use with Tampermonkey and is intended to automatically play videos on `https://iedu.foxconn.com/*`. It ensures that the video stays in focus and replays if paused, aiding in learning more efficiently.
 
